@@ -2,7 +2,7 @@
 
 
 Xiaofeng Xiao, Xiao Hu, Gilbert Yang Ye and Xubo Yue <br>
-https://arxiv.org/abs/2208.06193 <br>
+
 
 ## Reference
 
