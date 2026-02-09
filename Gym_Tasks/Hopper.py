@@ -119,7 +119,7 @@ class ReplayBuffer:
     def __len__(self):
         return len(self.buf)
 
-# -------------------- DDPM 逆采样 --------------------
+# 
 def ddpm_reverse_sample(eps_model: EpsNet,
                         f_phi: TransitionModel,
                         g_phi: RewardModel,
